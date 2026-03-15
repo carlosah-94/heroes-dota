@@ -18,7 +18,6 @@
 4. Broodmother
 5. Clinkz
 6. Drow Ranger
-7. Ember Spirit
 
 ## Inteligencia
 1. Ancient Apparition
